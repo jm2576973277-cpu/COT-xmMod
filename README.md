@@ -6,7 +6,7 @@
 不能戴帽子，戴帽子显示不出图片。
 
 运行崩溃请重新安装游戏并尝试分包。
-请在右侧[Releases page]处寻找对应的文件安装。
+请在右侧[Releases](https://github.com/jm2576973277-cpu/COT-xmMod/releases)处寻找对应的文件安装。
 
-电脑版优先使用整包（一个文件）。
-手机版请尝试分包（五个文件）或者更稀碎的分包（十个文件）。
+电脑版优先使用[整包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/full_mod)（一个文件）。
+手机版请尝试[分包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/sub_mod)（五个文件）或者[更稀碎的分包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/sub_sub_mod)（十个文件）。
