@@ -1,7 +1,6 @@
 # COT-xmMod
 
-v0.2.0 已更新，暂时没有做更稀碎的分包。
-
+v0.2.0 已更新，分包增加了一个hair的分类。
 <br>
 <br>
 
@@ -18,4 +17,5 @@ v0.2.0 已更新，暂时没有做更稀碎的分包。
 
 电脑版优先使用[整包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/full_mod_0.2.0)（一个文件）。
 
-手机版请尝试[分包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/sub_mod_0.2.0)（五个文件）。
+手机版请尝试[分包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/sub_mod_0.2.0)（五个文件）；
+或者[更稀碎的分包](https://github.com/jm2576973277-cpu/COT-xmMod/releases/tag/sub_sub_mod_0.2.0)（十二个文件）。
